@@ -186,7 +186,13 @@ li a:hover {
 }
 
 #imgharry {
-  width: 50%;
+  width: 60%;
+  float:right;
+
+}
+
+#h3harry {
+  padding-left: 5%;
 }
 
 #pharry , #poxford{
@@ -194,10 +200,32 @@ li a:hover {
 }
 
 #imgoxford {
-  width: 50%;
+  width: 60%;
 }
 
+#div {
+  background-color: rgb(198, 0, 0);
+  height: 1%;
+}
 
+#footerengland {
+  color: white;
+  background-color: rgb(171, 32, 32);
+}
+
+.buttonengland {
+  background-color: #770000;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  z-index: 2;
+}
 
 /* ABOUT ME SIDAN*/
 
@@ -277,7 +305,43 @@ footer {
 }
 
 
+/* GREKLAND */
 
+#imggreece {
+  width: 100%;
+}
+
+#h3greece, #pgreece {
+  padding-left: 5%;
+  border-left-style: solid;
+  border-color: rgb(54, 161, 100);
+}
+
+#imggreece2 {
+  width:70%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#footergreece {
+  color: white;
+  background-color: rgb(54, 161, 100);
+}
+
+.buttongreece {
+  background-color: #125d17;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  z-index: 2;
+}
 
 
 /* Slideshow container */
