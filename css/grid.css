@@ -378,6 +378,8 @@ footer, #footerengland {
 #h1greece {
   grid-column: 1/3;
   grid-row: 1/2;
+  width: 90%;
+  font-size: 3.5rem;
 }
 
 .buttongreece {
