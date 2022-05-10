@@ -239,8 +239,9 @@ footer, #footerengland {
     grid-row: 5/7;
   }
 
-
-
+  .text {
+    bottom: 80%;
+  }
 
 /* ITALIEN SIDAN */
 
@@ -260,13 +261,13 @@ footer, #footerengland {
   }
 
   #imgdol {
-    grid-column: 2/4;
+    grid-column: 1/5;
     grid-row: 5/6;
     width: 90%;
   }
 
   #imgrome {
-    grid-column: 2/4;
+    grid-column: 1/5;
     grid-row: 8/10;
     width: 90%;
   }
@@ -294,7 +295,7 @@ footer, #footerengland {
 }
 
 #text1 {
-  grid-column: 2/4;
+  grid-column: 1/5;
   grid-row: 5/7;
 }
 
@@ -310,12 +311,12 @@ footer, #footerengland {
 }
 
 #pharry {
-  grid-column: 2/4;
+  grid-column: 1/5;
   grid-row: 11/12;
 }
 
 #h3harry {
-  grid-column: 2/3;
+  grid-column: 2/4;
   grid-row: 9/10;
 }
 
@@ -326,12 +327,12 @@ footer, #footerengland {
 }
 
 #poxford {
-  grid-column: 2/4;
+  grid-column: 1/5;
   grid-row: 15/16;
 }
 
 #h3oxford {
-  grid-column: 2/3;
+  grid-column: 2/4;
   grid-row: 13/14;
 }
 
@@ -370,7 +371,7 @@ footer, #footerengland {
 }
 
 #imggreece2 {
-  grid-column: 2/4;
+  grid-column: 1/5;
   grid-row: 6/7;
 }
 
