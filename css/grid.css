@@ -283,7 +283,7 @@ footer, #footerengland {
   }
 
   .button {
-    grid-column: 3/5;
+    grid-column: 4/5;
     grid-row: 10/11;
   }
 
@@ -342,7 +342,7 @@ footer, #footerengland {
 }
 
 .buttonengland {
-  grid-column: 3/5;
+  grid-column: 4/5;
   grid-row: 17/18;
 }
 
@@ -383,7 +383,7 @@ footer, #footerengland {
 }
 
 .buttongreece {
-  grid-column: 3/5;
+  grid-column: 4/5;
   grid-row: 8/9;
 }
 
