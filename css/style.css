@@ -214,6 +214,10 @@ li a:hover {
   background-color: rgb(171, 32, 32);
 }
 
+#footerengland > p {
+  padding-left: 1rem;
+}
+
 .buttonengland {
   background-color: #770000;
   border: none;
@@ -328,6 +332,7 @@ footer {
 #footergreece {
   color: white;
   background-color: rgb(54, 161, 100);
+  padding-left: 1rem;
 }
 
 .buttongreece {
