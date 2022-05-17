@@ -13,6 +13,15 @@ body, html {
   text-align: center;
 }
 
+#meny1 {
+  display: flex;
+  justify-content: flex-end;
+}
+
+#meny1 : a {
+  float: right;
+}
+
 h1 {
   color: white;
   font-size: 500%;
@@ -169,6 +178,7 @@ li a:hover {
   border-left-style: solid;
   border-color: rgb(198, 0, 0);
   padding-left: 1.25rem;
+
 }
 
 #london {
