@@ -272,13 +272,14 @@ footer, #footerengland {
   #imgdol {
     grid-column: 1/5;
     grid-row: 5/6;
-    width: 90%;
+    width: 100%;
   }
 
   #imgrome {
     grid-column: 1/5;
     grid-row: 8/10;
-    width: 90%;
+    width: 100%;
+    padding: 0;
   }
 
   #p2italy {
@@ -389,6 +390,7 @@ footer, #footerengland {
 #imggreece2 {
   grid-column: 1/5;
   grid-row: 6/7;
+  width:100%;
 }
 
 #h1greece {
